@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Apple",
+        "ceo": "nameOfCEO or hiringStaff",
+        "value": "coreValues",
+        "why": "why do I want to work there answer"
+    
+    
+    },
+    {
+        "name": "Microsoft",
+        "ceo": "nameOfCEO or hiringStaff",
+        "value": "coreValues",
+        "why": "why do I want to work there answer"
+    
+    
+    },
+    {
+        "name": "Tesla",
+        "ceo": "nameOfCEO or hiringStaff",
+        "value": "coreValues",
+        "why": "why do I want to work there answer"
+    
+    
+    },
+    {
+        "name": "Start-Up",
+        "ceo": "nameOfCEO or hiringStaff",
+        "value": "coreValues",
+        "why": "why do I want to work there answer"
+    
+    
+    },
+    {
+        "name": "Your Company",
+        "ceo": "nameOfCEO or hiringStaff",
+        "value": "coreValues",
+        "why": "why do I want to work there answer"
+    
+    
+    }
+]
+
